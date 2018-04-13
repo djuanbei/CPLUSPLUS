@@ -1,2 +1,2 @@
-# CPLUSPLUS 2018 C++ course 
+# 2018 C++ course 
 
